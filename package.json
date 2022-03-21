@@ -1,0 +1,11 @@
+{
+  "name": "prism-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@stoplight/prism-cli": "^4.8.0",
+    "@stoplight/prism-http": "^4.8.0",
+    "odata-openapi": "^0.14.0"
+  }
+}

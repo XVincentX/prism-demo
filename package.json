@@ -5,7 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@stoplight/prism-cli": "^4.8.0",
-    "@stoplight/prism-http": "^4.8.0",
-    "odata-openapi": "^0.14.0"
+    "@stoplight/prism-http": "^4.8.0"
   }
 }
